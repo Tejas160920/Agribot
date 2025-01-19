@@ -77,10 +77,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🔗 Links
-- Project Documentation: [Link to documentation]
-- Research Paper: [Link to paper if available]
-- Demo Video: [Link to demo]
 
 ## 📞 Contact
 - Tejas Gaikwad
