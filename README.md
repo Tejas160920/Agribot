@@ -42,7 +42,7 @@ AgriBot is an autonomous precision farming robot that leverages computer vision 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/agribot.git
+git clone https://github.com/Tejas160920/agribot.git
 
 # Navigate to project directory
 cd agribot
